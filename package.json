@@ -1,0 +1,21 @@
+{
+
+    "name": "paystack-task",
+    "version": "1.0.0",
+    "description": "",
+    "main": "file.js",
+    "scripts": {
+        "Start": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "engines": {
+        "node": "16.x"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "express": "^4.18.1",
+        "nodemon": "^2.0.19"
+    }
+}
